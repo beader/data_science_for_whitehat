@@ -2,7 +2,7 @@
     "plugins": ["katex"],
     "pluginsConfig": {
         "fontsettings": {
-            "family": "Hei"
+            "family": "SimHei"
         }
     }
 }
