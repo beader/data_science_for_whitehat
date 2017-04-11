@@ -1,6 +1,8 @@
 {
     "plugins": ["katex"],
-    "pdf": {
-        "fontFamily": "Sim Hei"
+    "pluginsConfig": {
+        "fontsettings": {
+            "family": "Hei"
+        }
     }
 }
